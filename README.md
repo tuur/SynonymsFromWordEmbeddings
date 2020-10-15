@@ -14,4 +14,4 @@ For both German and English, from the final system in the paper there are:
 - The human evaluation annotations
 
 ### Questions?
-> Any questions? Feel free to send an email to aleeuw15@umcutrecht.nl !
+> Any questions? Feel free to send an email!
